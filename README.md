@@ -38,7 +38,7 @@ Modern data engineering also focuses on:
 
 ---
 
-# 📚 Topics
+#  Topics
 
 ## 1. Data Engineering Fundamentals
 
